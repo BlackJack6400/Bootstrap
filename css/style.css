@@ -19,3 +19,21 @@ border: none;
     padding: 25px;
     border-radius: 7px;
 }
+
+.navCustom{
+background-color: #14CCCC !important;
+position: fixed;
+width: 100%;
+z-index: 10;
+background-size: cover;
+}
+
+.btn{
+  background-color: #003333;
+  border: none;
+}
+
+.btn:hover{
+  background-color: #14CCCC;
+border: none;
+}
